@@ -10,8 +10,6 @@ library(survival)
 library(survminer)
 library(flexsurv)
 library(caret)
-library(survMS)
-library(STAR)
 library(reshape2)
 library(gridExtra)
 
